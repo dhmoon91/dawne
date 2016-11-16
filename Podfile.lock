@@ -1,0 +1,16 @@
+PODS:
+  - Alamofire (3.2.0)
+  - ForecastIO (1.5.0)
+  - PySwiftyRegex (0.2.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0)
+  - ForecastIO
+  - PySwiftyRegex (~> 0.2.0)
+
+SPEC CHECKSUMS:
+  Alamofire: 4da478599fccddff361205c8929333d7fe18dceb
+  ForecastIO: b6b3e26e7134acf8a05388cc513a9e7eb18846b7
+  PySwiftyRegex: 78f989c59ee3bec812f9dc980b3723d60d0e5dca
+
+COCOAPODS: 0.39.0

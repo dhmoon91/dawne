@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10171" systemVersion="15D21" minimumToolsVersion="Xcode 7.0">
+    <entity name="Settings" syncable="YES">
+        <attribute name="alarm" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="alarmSound" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="autoForToday" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="autoSet" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="defaultAlarm" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="newUser" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="nightReminders" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="rssFeed" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="shakeToWake" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="sleepTime" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="smoothWake" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="snooze" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="timeToGetReady" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="travelMethod" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wakeReminders" optional="YES" attributeType="Boolean" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Settings" positionX="-63" positionY="-18" width="128" height="270"/>
+    </elements>
+</model>
