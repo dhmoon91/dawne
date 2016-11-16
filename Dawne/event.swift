@@ -2,7 +2,6 @@
 //  event.swift
 //  Dawne
 //
-//  Created by Gray Jin on 2016-02-19.
 //  Copyright © 2016 It's Too Early. All rights reserved.
 //
 

@@ -15,8 +15,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "23"
             endingLineNumber = "23"
-            landmarkName = "init(course:code:section:days:start:end:building:room:total:)"
-            landmarkType = "5">
+            landmarkName = "ClassSchedule"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -105,8 +105,8 @@
                   symbolName = "Dawne.ViewController.updateView () -&gt; ()"
                   moduleName = "Dawne"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/stanleymoon/GitHub/dawne-app/Dawne/ViewController.swift"
-                  timestampString = "500251693.428467"
+                  urlString = "file:///Users/stanleymoon/GitHub/dawne/Dawne/ViewController.swift"
+                  timestampString = "500969104.77279"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "71"
@@ -120,8 +120,8 @@
                   symbolName = "Dawne.ViewController.(updateView () -&gt; ()).(closure #1)"
                   moduleName = "Dawne"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/stanleymoon/GitHub/dawne-app/Dawne/ViewController.swift"
-                  timestampString = "500251693.428713"
+                  urlString = "file:///Users/stanleymoon/GitHub/dawne/Dawne/ViewController.swift"
+                  timestampString = "500969104.77291"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "72"

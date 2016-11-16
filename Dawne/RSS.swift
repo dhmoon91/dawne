@@ -2,7 +2,6 @@
 //  RSS.swift
 //  Dawne
 //
-//  Created by Chenshuo  Jin on 2016-03-25.
 //  Copyright © 2016 It's Too Early. All rights reserved.
 //
 
